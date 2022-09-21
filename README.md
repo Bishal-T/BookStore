@@ -1,12 +1,12 @@
 # Bookstore
-A porject I did for my class.
-# Books
+ITSC 1213 - Project
+# Books.java
 Class for books 
-# CDs
+# CDs.java
 Class for CDs
-# DvDs
+# DvDs.java
 Class for DvDs
-# RegisterMember
+# RegisterMember.java
 Class to register member
-# Testharness 
+# Testharness.java(main)
 Driver class
