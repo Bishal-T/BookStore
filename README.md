@@ -1,12 +1,1 @@
-# Bookstore
-ITSC 1213 - Project
-# Books.java
-Class for books 
-# CDs.java
-Class for CDs
-# DvDs.java
-Class for DvDs
-# RegisterMember.java
-Class to register member
-# Testharness.java(main)
-Driver class
+Console based program thats lets users register, view, and purchase three types of product(books, dvds, and CDs)
